@@ -115,8 +115,33 @@ Cyber Security Interview Questions
 - What is automated analysis?
 - What is dynamic analysis?
 - What is process injection?
-
-
-
-
-
+- What is a Kerberoasting attack?
+- What is BoF?
+- Heap and Stack differences?
+- DLL Hijaking
+- How does a DNS work?(Root,TLD,..)
+- How to detect RDP connections on SIEM?
+- How to detect connections through shared account?
+- What is NTP protocol?
+- FP tune methods?
+- Authentication, Authorization, and Accounting
+- Can you describe the difference between UDP and TCP?
+- Difference between true positive, false positive, and false negative
+- Public and Private IP differences
+- Private IP ranges(A,B,C class)
+- IPv4 vs IPv6
+- What are Unicasting, Anycasting, Multicasting and Broadcasting?
+- Why we use VLAN?
+- VLAN Hopping attack
+- Reverse and Forward Proxy differences
+- Define Digital Signatures?
+- Phising Analysis steps
+- XSS,SQLi types and prevention methods
+- What is the use of APIPA?
+- What is the difference between a domain and a forest?
+- Locking the user account on Linux command
+- DNS Flood attack
+- What are Email Protocols (POP3, SMTP and IMAP)
+- Types of Databases and differences?
+- Common types of Phising
+- Tree,Forest,Trust,Domain in AD
